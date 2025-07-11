@@ -1,4 +1,4 @@
-# 🌦 Flutter Weather App
+# 🌦 Flutter Weather App - Built on Android Studio
 
 A beautiful and lightweight weather application built with **Flutter** and **Dart**, delivering real-time weather updates using the OpenWeatherMap API.
 
@@ -6,13 +6,25 @@ A beautiful and lightweight weather application built with **Flutter** and **Dar
 
 ## 📸 Preview
 
-![Preview UI]
+## 📱 Mobile UI Preview
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/79b6f71b-cf59-4591-8b57-b1d1e358309d" alt="Home" width="250"/>
-  <img src="https://github.com/user-attachments/assets/ca3c4635-1aab-4a67-bf20-3e11fbd725e4" alt="Loading" width="250"/>
-  <img src="https://github.com/user-attachments/assets/a918be9d-4ed8-4bb8-b3f1-69094dc138e4" alt="Weather Info" width="250"/>
-  <img src="https://github.com/user-attachments/assets/f1161082-72ad-4403-a44c-059a90e04b42" alt="Dark Mode" width="250"/>
+  <img src="https://github.com/user-attachments/assets/79b6f71b-cf59-4591-8b57-b1d1e358309d" alt="Home" width="220"/>
+  <img src="https://github.com/user-attachments/assets/ca3c4635-1aab-4a67-bf20-3e11fbd725e4" alt="Loading" width="220"/>
+  <img src="https://github.com/user-attachments/assets/a918be9d-4ed8-4bb8-b3f1-69094dc138e4" alt="Weather Info" width="220"/>
+  <img src="https://github.com/user-attachments/assets/f1161082-72ad-4403-a44c-059a90e04b42" alt="Dark Mode" width="220"/>
 </p>
+
+---
+
+## 🖥️ Windows App Preview
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/34717961-e635-4652-aa15-61e1881149fc" alt="Windows 1" width="700"/>
+  <img src="https://github.com/user-attachments/assets/ae8a2390-e763-49ed-9976-59aa1c248efd" alt="Windows 2" width="700"/>
+  <img src="https://github.com/user-attachments/assets/4aa2f1d6-392a-49cb-a346-eb8b5126bd10" alt="Windows 3" width="700"/>
+</p>
+
 
 
 ---
