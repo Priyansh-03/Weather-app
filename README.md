@@ -116,7 +116,7 @@ lib/
 
 Made by Priyansh Srivastava 💙
 
-🔗 [LinkedIn](https://www.linkedin.com/in/priyansh-srivastava)  |  🌐 [GitHub](https://github.com/your-username)
+🔗 [LinkedIn](https://www.linkedin.com/in/priyansh-sriv/)  |  🌐 [GitHub](https://github.com/Priyansh-03/)
 
 ---
 
